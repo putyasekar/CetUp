@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689071021129",
+    "firebase_url": "https://cetup-46fe7.firebaseio.com",
+    "project_id": "cetup-46fe7",
+    "storage_bucket": "cetup-46fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689071021129:android:ed800be22ace547713b398",
+        "android_client_info": {
+          "package_name": "com.putya.idn.cetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689071021129-2lcmhu46ls4atgt67li1re3on1oh9j5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSY8ys50dhiRl6p75XViqEd3rCjDujpJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689071021129-2lcmhu46ls4atgt67li1re3on1oh9j5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
