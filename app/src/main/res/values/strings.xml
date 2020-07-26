@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">CetUp</string>
+    <string name="text_user_name">UserName</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_signup">Sign up</string>
+    <string name="text_signin">Sign in</string>
+    <string name="text_welcome">Welcome back,</string>
+    <string name="text_register">Register</string>
+    <string name="text_chat_fragment">Chat Fragment</string>
+    <string name="text_search_fragment">Search Fragment</string>
+    <string name="fragment_setting">Fragment Setting</string>
+    <string name="text_message_username">Please write username</string>
+    <string name="text_message_email">Please write email</string>
+    <string name="text_message_password">Please write password</string>
+    <string name="text_error_message">Error Message :</string>
+    <string name="text_user">Users</string>
+    <string name="text_sign_out">Sign Out</string>
+    <string name="signup">Sign up to continue</string>
+    <string name="remember">Remember me</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="create_acc">Create account</string>
+    <string name="terms">"Terms and condition "</string>
+    <string name="signin">Sign in to continue</string>
+    <string name="didnt">Don\'t have account yet?</string>
 </resources>
