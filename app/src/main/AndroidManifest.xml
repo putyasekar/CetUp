@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.putya.idn.cetup">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.SignUpActivity"></activity>
+        <activity android:name=".activity.FullViewImageActivity"></activity>
+        <activity android:name=".activity.IsiChatActivity" />
+        <activity android:name=".activity.EditProfileActivity" />
+        <activity android:name=".activity.SettingActivity" />
+        <activity android:name=".activity.WelcomeActivity" />
+        <activity android:name=".activity.SignUpActivity" />
         <activity android:name=".activity.SignInActivity" />
         <activity android:name=".activity.MainActivity">
             <intent-filter>
